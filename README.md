@@ -8,7 +8,7 @@ From the strange is the lack of social networks other than telegram.
 ♡ ![root](https://img.shields.io/badge/-ROOT-090900) ♡
 
 # Language
-![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)
+[![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C%2B%2B)
 
 # Tool
 [![VSC](https://img.shields.io/badge/-VSC-090900?style=for-the-badge&logo=visualstudio&logoColor=6655FF)](https://code.visualstudio.com)
