@@ -11,7 +11,7 @@ From the strange is the lack of social networks other than telegram.
 ![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)
 
 # Tool
-![VSC](https://img.shields.io/badge/-VSC-090900?style=for-the-badge&logo=visualstudio&logoColor=6655FF)
+[![VSC](https://img.shields.io/badge/-VSC-090900?style=for-the-badge&logo=visualstudio&logoColor=6655FF)](https://code.visualstudio.com)
 
 # Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=blue)](http://t.me/nestesh)
