@@ -5,7 +5,7 @@ I write viruses in C++. I have little to say about myself, if you have any quest
 I'm just a beginner, so I can't fulfill any serious requests. 
 From the strange is the lack of social networks other than telegram.
 
-♡ ![root](https://img.shields.io/badge/-ROOT-090900) ♡
+♡ [![root](https://img.shields.io/badge/-ROOT-090900)](https://en.m.wikipedia.org/wiki/Root) ♡
 
 # Language
 [![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C%2B%2B)
