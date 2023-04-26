@@ -17,6 +17,5 @@ From the strange is the lack of social networks other than telegram.
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=blue)](http://t.me/nestesh)
 # Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkll&layout=compact&theme=tokyonight)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chkll&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chkll&count_private=true&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chkll&theme=tokyonight)
