@@ -6,6 +6,8 @@ _I'm just a beginner, so I can't fulfill any serious requests._
 From the strange is the lack of social networks other than telegram.
 If you have any questions about my projects, then feel free to write to me, I will be glad if you point out my mistakes.
 
+!
+
 ♡ [![root](https://img.shields.io/badge/-ROOT-090900)](https://en.m.wikipedia.org/wiki/Superuser) ♡
 
 ## Language
@@ -14,7 +16,7 @@ If you have any questions about my projects, then feel free to write to me, I wi
 ## Tool
 [![VSC](https://img.shields.io/badge/-VSC-090900?style=for-the-badge&logo=visualstudio&logoColor=6655FF)](https://code.visualstudio.com)
 
-## Follow me
+### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=blue)](http://t.me/nestesh)
 ### Statistic
 <img src="https://komarev.com/ghpvc/?username=chkll&style=flat-square" alt="chkll" /><br>
