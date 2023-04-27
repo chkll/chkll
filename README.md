@@ -21,4 +21,4 @@ If you have any questions about my projects, then feel free to write to me, I wi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkll&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chkll&count_private=true&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chkll&theme=tokyonight)
-[^1]: ___The translator writes Michael, but I'm more inclined to Mikhail.___
+[^1]: ___The translator writes Michael,but I'm more inclined to Mikhail.___
