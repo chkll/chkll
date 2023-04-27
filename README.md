@@ -19,7 +19,7 @@ If you have any questions about my projects, then feel free to write to me, I wi
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=blue)](http://t.me/nestesh)
 ### Statistic
-<img src="https://komarev.com/ghpvc/?username=chll&style=flat-square" alt="chkll" /><br>
+<img src="https://komarev.com/ghpvc/?username=chkll&style=flat-square" alt="chkll" /><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkll&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chkll&count_private=true&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chkll&theme=tokyonight)
