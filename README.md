@@ -8,7 +8,7 @@ If you have any questions about my projects, then feel free to write to me, I wi
 
 ![chkll](https://github.com/chkll/chkll/blob/main/1682608377980.png)
 
-[![♡root♡](https://img.shields.io/badge/-ROOT-090900)](https://en.m.wikipedia.org/wiki/Superuser)
+♡ [![root](https://img.shields.io/badge/-ROOT-090900)](https://en.m.wikipedia.org/wiki/Superuser) ♡
 
 ## Language
 [![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C%2B%2B)
