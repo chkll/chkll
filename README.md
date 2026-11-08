@@ -1,10 +1,10 @@
-# Hi there! My name is Michael or Mikhail[^1]
+# Hi there! My name Mikhail[^1]
 
-## Language
-[![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C%2B%2B) [!C](https://img.shields.io/badge/-C-090900?style=for-the-badge&logo=c&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C
+## Languages
+[![C++](https://img.shields.io/badge/-C++-090900?style=for-the-badge&logo=cplusplus&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C%2B%2B) [![C](https://img.shields.io/badge/-C-090900?style=for-the-badge&logo=c&logoColor=6666FF)](https://en.m.wikipedia.org/wiki/C)
 
 ## Tool
-[![VSC](https://img.shields.io/badge/-VSC-090900?style=for-the-badge&logo=visualstudio&logoColor=6655FF)](https://code.visualstudio.com)
+[![NeoVim](https://img.shields.io/badge/-NeoVim-090900?style=for-the-badge&logo=neovim&logoColor=6655FF)](https://code.visualstudio.com)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=blue)](http://t.me/nestesh)
